@@ -65,7 +65,7 @@ public class CommandAdmin extends AdminUser {
                 return;
             }
             if (!groupe.haveCommand(command)) {
-                this.sendMessage("Commande invalide !");
+                this.sendMessage("Comando inválido!");
                 return;
             }
 
