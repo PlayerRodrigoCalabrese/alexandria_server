@@ -7,7 +7,7 @@
     <conf name="En ligne" zaapconnectport="26117">
 	<connserver name="Alexandria" ip="localhost" port="450" />
         <dataserver url="data/" type="local" priority="3"/>
-        <dataserver url="http://dofusretro.cdn.ankama.com/" priority="1"/>
+        <dataserver url="http://localhost/langdata/" priority="1"/>
     </conf>
 
     <cacheasbitmap>
